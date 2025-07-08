@@ -1,4 +1,0 @@
-cd sre_azure_labs/Allfiles/Labs/02/Starter/API/
-# the commands below assume the location of your finapi_yourname in your user/home folder 
-cp -p application.py ~/finapi_carrillo
-cp -p requirements.txt ~/finapi_carrillo
