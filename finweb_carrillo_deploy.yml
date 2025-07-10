@@ -14,6 +14,9 @@ variables:
   - name: webAppName
     value: 'finweb-carrillo'                # <-- Update this Azure Web App target
 
+pool:
+  name: student-lab-pool
+      
 steps:
 - script: |
     echo "Installing Azure DevOps CLI extension..."
