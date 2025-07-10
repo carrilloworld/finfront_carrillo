@@ -12,7 +12,7 @@ variables:
   - name: resourceGroup
     value: 'Training-Student-009'        # <-- Update this
   - name: webAppName
-    value: 'finweb-carrillo'                # <-- Update this Azure Web App target
+    value: 'finweb-carrilloweb'                # <-- Update this Azure Web App target
 
 pool:
   name: student-lab-pool
