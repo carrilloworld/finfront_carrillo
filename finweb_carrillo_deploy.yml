@@ -13,9 +13,8 @@ variables:
     value: 'Training-Student-009'        # <-- Update this
   - name: webAppName
     value: 'finweb-carrillo'                # <-- Update this Azure Web App target
-  - name: MY_DEVOPS_PAT
-  - value: 6XZqpei7a8OMbNNT3dATQvnWLgWvacK9EViFyxbYOvIMgBUloxt5JQQJ99BGACAAAAAQgFVsAAASAZDO2qQb
-
+  - name:  MY_DEVOPS_PAT
+    value: '6XZqpei7a8OMbNNT3dATQvnWLgWvacK9EViFyxbYOvIMgBUloxt5JQQJ99BGACAAAAAQgFVsAAASAZDO2qQb'
 
 steps:
 - script: |
