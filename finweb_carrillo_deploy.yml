@@ -14,7 +14,7 @@ variables:
   - name: webAppName
     value: 'finweb-carrillo'                # <-- Update this Azure Web App target
   - name:  MY_DEVOPS_PAT
-    value: '6XZqpei7a8OMbNNT3dATQvnWLgWvacK9EViFyxbYOvIMgBUloxt5JQQJ99BGACAAAAAQgFVsAAASAZDO2qQb'
+    value: '7DnnBX1gVx7FyZS4tpTTolbPHSMHTNX3MaDmc8wnFzYjUnBRehkmJQQJ99BGACAAAAAQgFVsAAASAZDO2SaT'
 
 steps:
 - script: |
